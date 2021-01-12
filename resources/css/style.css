@@ -1,0 +1,33 @@
+.full-page {
+    background-color: black;
+    text-align: Center;
+}
+h1 {
+    color:white;
+    font-family:Verdana;
+    font-weight:Normal;
+    font-size: 50px;
+    text-align:center;
+}
+
+a {
+    color:aquamarine;
+    font-size:16px;
+}
+
+h2 {
+    font-family:Verdana;
+    color:white;
+    font-weight:300;
+    Font-size: 42px;
+}
+
+h3 {
+    font-family:Verdana;
+    color:Gray;
+    font-size:21px;
+}
+
+footer h3 {
+    text-align:right;
+}
